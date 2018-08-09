@@ -1,0 +1,482 @@
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\MIKmodified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\khalil.sdf
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIKParadox\Desktop\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+E:\MIKmodified\newly modified\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\Library.mdf
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\Library_log.ldf
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\Library.mdf
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\Library_log.ldf
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+E:\desktopAppFromDesktop\IMT Help\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library.mdf
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library_log.ldf
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+D:\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library.mdf
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library_log.ldf
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssuedBookLogUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssuedBookLogUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\QeuedBookUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\QeuedBookUserControl.g.cs
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineLogUserControl.baml
+C:\Users\MIKParadox\Desktop\NSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineLogUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library.mdf
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\Library_log.ldf
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.manifest
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.application
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineLogUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssuedBookLogUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\QeuedBookUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.baml
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddBookUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddDeptUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AddMemUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllDeptUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\AllMemUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelBookUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\DelMemUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineLogUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\FineUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssuedBookLogUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\IssueUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\LoginWindow.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\MemListUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\QeuedBookUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\ReturnUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpBookUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\UpMemUserControl.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe.manifest
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.application
+D:\TrapeziumNSTULibraryManagementSystem\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

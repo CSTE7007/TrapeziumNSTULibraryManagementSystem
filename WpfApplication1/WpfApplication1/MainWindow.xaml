@@ -1,0 +1,371 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NSTU Library Mangement System" Height="700" Width="1000" WindowStartupLocation="CenterScreen" >
+
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style x:Key="DeveloperBoxStyle" TargetType="{x:Type Border}">
+                <Setter Property="Width" Value="300"></Setter>
+                <Setter Property="Background" Value="#FFD6D6D6"></Setter>
+                <Setter Property="BorderThickness" Value="1"></Setter>
+                <Setter Property="BorderBrush" Value="#FFB6B6B6"></Setter>
+                <Setter Property="CornerRadius" Value="5"></Setter>
+                <Setter Property="Margin" Value="0,5,5,5"></Setter>
+                <Setter Property="Padding" Value="30,15"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid  Background="#FFE5E5E5" >
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Menu  Grid.Row="0"
+            HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="auto">
+            <MenuItem Header="click to logout" Height="22" Click="MenuItem_Click"></MenuItem>
+        </Menu>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="5">
+            <Image Grid.RowSpan="2"  HorizontalAlignment="Left" Height="80" Source="blue.png"/>
+            <Label Content="NSTU LIBRARY&#xD;&#xA;MANAGEMENT SYSTEM" FontWeight="Bold" FontSize="22" VerticalAlignment="Center"/>
+        </StackPanel>
+
+
+        <TabControl  Background="#FFE5E5E5" Margin="0,50,0,0">
+            <TabItem Header="Home" Width="100" Margin="-2,0">
+                <Grid Background="#FFE5E5E5" >
+                    <Grid.RowDefinitions>
+
+                        <RowDefinition Height="100"/>
+                        <RowDefinition Height="3*"/>
+
+
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+                        <ColumnDefinition Width="164*"></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+
+
+
+
+
+                    <!--<ScrollViewer Grid.Row="1">-->
+
+                    <!--<StackPanel Grid.Row="1" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible">-->
+                    <DataGrid 
+                            Grid.Row="1" Grid.ColumnSpan="8"
+                                   FontSize="14" AutoGenerateColumns="False" x:Name="BookCatalog"
+                                   HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,20,0,0"
+                        		   ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                                   ScrollViewer.VerticalScrollBarVisibility="Visible"
+                        		ItemsSource="{Binding Table}" Width="auto" Height="200">
+                        <DataGrid.Columns >
+                            <DataGridTextColumn Header="Book Id:" Width="80" Binding="{Binding Path=b_id}"/>
+                            <DataGridTextColumn Header="Book Name:" Width="*" Binding="{Binding Path=b_name}"/>
+                            <DataGridTextColumn Header="Author Name1:" Width="*" Binding="{Binding Path=b_authorname1}"/>
+                            <DataGridTextColumn Header="Author Name2:" Width="*" Binding="{Binding Path=b_authorname2}"/>
+                            <DataGridTextColumn Header="Author Name3:" Width="*" Binding="{Binding Path=b_authorname3}" />
+                            <DataGridTextColumn Header="NoofBooks" Width="100" Binding="{Binding Path=b_noofbooks}"/>
+                            <DataGridTextColumn Header="Edition" Width="60" Binding="{Binding Path=b_edition}" />
+                            <DataGridTextColumn Header="Publiction" Width="*" Binding="{Binding Path=b_publishername}"/>
+                            <DataGridTextColumn Header="Shelf Number" Width="*" Binding="{Binding Path=b_shelfno}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+
+                    <!--</StackPanel>-->
+
+
+                    <!--</ScrollViewer>-->
+
+                    <Label FontSize="15" Height="32" Grid.ColumnSpan="2" Grid.Column="0" Margin="20,2,0,0"
+                           HorizontalAlignment="Left" VerticalAlignment="Top">Search Book name</Label>
+
+                    <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Name="bookNameSearchTextBox"
+                             SelectionChanged="bookNameSearchTextBox_SelectionChanged" Margin="20,0,0,0"
+                             Height="32" ></TextBox>
+
+                    <ComboBox  Name="DeptnameComboBox" Grid.Column="4"
+                               SelectionChanged="DeptnameComboBox_OnSelectionChanged" 
+                               Grid.Row="0" HorizontalAlignment="Left" 
+                              VerticalAlignment="Center" Width="200" Height="32"  Grid.ColumnSpan="3" >
+                    </ComboBox>
+                    <Label 
+                        Grid.Row="0"  Grid.Column="4" FontSize="14"
+                        Content="Search by Department Name" HorizontalAlignment="Left"
+                         VerticalAlignment="Top" Width="200" Grid.ColumnSpan="2"   />
+
+                    <Button  Grid.Row="0"  Height="30" Width="137" Grid.Column="6"
+                             Name="RefreshButton" Click="RefreshButton_Click"
+                             HorizontalAlignment="Left"
+                             FontSize="14"  Grid.ColumnSpan="2"
+                             >Refresh Book List</Button>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Members" Height="42" Width="100">
+
+                <Grid Background="#FFE5E5E5">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="5*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+
+                    <ListBox HorizontalAlignment="Left" Height="549" VerticalAlignment="Top" Width="150">
+                        <ListBoxItem Name="AddMember" Selected="AddMember_Selected">Add Member</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected">Update Member</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_1">Delete Member</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_2">All Member List</ListBoxItem>
+                    </ListBox>
+
+                    <ScrollViewer Grid.Column="1" Grid.Row="0" HorizontalScrollBarVisibility="Visible"
+                                  VerticalScrollBarVisibility="Visible" >
+                        <Frame Grid.Column="1" Grid.Row="0"  Name="MemberPageNavigator"
+                          
+                           ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                           ScrollViewer.VerticalScrollBarVisibility="Visible"
+                           NavigationUIVisibility="Hidden"></Frame>
+
+
+                    </ScrollViewer>
+
+
+
+                    <!--<StackPanel   Name="Panel" Background="#FFE5E5E5" HorizontalAlignment="Left"
+                                  Height="550" Margin="180,10,0,0" VerticalAlignment="Top" Width="765">
+
+                    </StackPanel>-->
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Transactions" Height="42" Width="100"  >
+                <Grid Background="#FFE5E5E5" >
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="5*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox HorizontalAlignment="Left" Height="549" VerticalAlignment="Top" Width="150">
+                        <ListBoxItem Selected="ListBoxItem_Selected_3">Issue Book</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_4">Return Book</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_5">Calculate Fine</ListBoxItem>
+
+                    </ListBox>
+
+                    <ScrollViewer  Grid.Row="0" Grid.Column="1" HorizontalScrollBarVisibility="Visible"
+                                  VerticalScrollBarVisibility="Visible" >
+
+                        <Frame  Grid.Row="0" Grid.Column="1" Name="TransactionPageNavigator"
+                           ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                           ScrollViewer.VerticalScrollBarVisibility="Visible"
+                           NavigationUIVisibility="Hidden"></Frame>
+                    </ScrollViewer>
+
+                    <!--<StackPanel Grid.Column="1" Grid.Row="0" Background="#FFE5E5E5" HorizontalAlignment="Left" Name="IssuePanel"
+                                 Height="552" Margin="180,10,0,0" VerticalAlignment="Top" Width="762"/>-->
+
+                </Grid>
+
+            </TabItem>
+
+            <TabItem Header="Books" Height="42" Width="100">
+                <Grid Background="#FFE5E5E5" >
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="5*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox HorizontalAlignment="Left" Height="549" VerticalAlignment="Top" Width="150">
+                        <ListBoxItem Selected="ListBoxItem_Selected_6">Add Book</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_7">Update Book</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_8">Delete Book</ListBoxItem>
+                    </ListBox>
+
+                    <ScrollViewer  Grid.Row="0" Grid.Column="1" HorizontalScrollBarVisibility="Visible"
+                                  VerticalScrollBarVisibility="Visible" >
+
+                        <Frame  Grid.Row="0" Grid.Column="1" Name="BooksPageNavigator"
+                           ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                           ScrollViewer.VerticalScrollBarVisibility="Visible"
+                           NavigationUIVisibility="Hidden" ></Frame>
+                    </ScrollViewer>
+
+                    <!--<StackPanel Grid.Column="1" Grid.Row="0" Background="#FFE5E5E5" HorizontalAlignment="Left" Name="BookPanel"
+                                 Height="552" VerticalAlignment="Top" Width="762"/>-->
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Departments" Height="42" Width="100">
+                <Grid Background="#FFE5E5E5" >
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="3*"></ColumnDefinition>
+                        <ColumnDefinition Width="3*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox HorizontalAlignment="Left" Height="549" VerticalAlignment="Top" Width="150" Margin="0,0,0,-36">
+                        <ListBoxItem Selected="ListBoxItem_Selected_9">Add Department</ListBoxItem>
+                        <ListBoxItem Selected="ListBoxItem_Selected_10" >All Departments</ListBoxItem>
+                    </ListBox>
+
+                    <ScrollViewer  Grid.Row="0" Grid.Column="1" HorizontalScrollBarVisibility="Visible"
+                                  VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="2" >
+
+                        <Frame  Grid.Row="0" Grid.Column="1" Margin="50,0,50,0" Name="DepartmentPageNavigator"
+                           ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                           ScrollViewer.VerticalScrollBarVisibility="Visible"
+                           NavigationUIVisibility="Hidden" Width="800"></Frame>
+                    </ScrollViewer>
+
+                    <!--<StackPanel Grid.Column="1" Grid.Row="0" Background="#FFE5E5E5" HorizontalAlignment="Left" Name="BookPanel"
+                                 Height="552" VerticalAlignment="Top" Width="762"/>-->
+
+                </Grid>
+            </TabItem>
+
+
+            <!--<TabItem Header="About" Height="42" Width="100" >
+                <Grid>
+                    <ScrollViewer Padding="0" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <Grid Name="AboutGrid" Width="650" MinWidth="650" HorizontalAlignment="Center">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="50"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                                <RowDefinition Height="50"></RowDefinition>
+                                <RowDefinition Height="Auto"></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock VerticalAlignment="Center" Margin="20,0,20,0" FontWeight="Bold" FontSize="15">This project is supervised by:</TextBlock>
+
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="300"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Image HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Source="Sir.jpg"  Height="250" Width="250"/>
+
+                                <TextBlock Grid.Column="1" TextWrapping="Wrap">
+                                    <Run FontSize="20" FontWeight="Bold">Abhijit Chakraborty</Run>
+                                    <LineBreak/>
+                                    <Run FontSize="16">Assistant Professor</Run> 
+                                    <LineBreak/>
+                                    <Run FontSize="16" FontStyle="Italic">Department of CSTE</Run>
+                                </TextBlock>
+                            </Grid>
+
+                            <TextBlock Grid.Row="2" VerticalAlignment="Center" Margin="20,0,20,0" FontWeight="Bold" FontSize="15">Developed by:</TextBlock>
+
+                            <WrapPanel Grid.Row="3" Margin="20,0,20,0" MaxWidth="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType={x:Type TabControl}}}">
+                                <Border Style="{StaticResource DeveloperBoxStyle}">
+                                    <TextBlock TextWrapping="Wrap">
+                                        <Run FontSize="18" FontWeight="Bold">Hafiz Newaz Khan</Run>
+                                        <LineBreak/>
+                                        <Run FontSize="15">ASH1201001M</Run>
+                                    </TextBlock>
+                                </Border>
+                                <Border Style="{StaticResource DeveloperBoxStyle}">
+                                    <TextBlock TextWrapping="Wrap">
+                                        <Run FontSize="18" FontWeight="Bold">Md. Ibrahim Khalil</Run>
+                                        <LineBreak/>
+                                        <Run FontSize="15">ASH1201007M</Run>
+                                    </TextBlock>
+                                </Border>
+                                <Border Style="{StaticResource DeveloperBoxStyle}">
+                                    <TextBlock TextWrapping="Wrap">
+                                        <Run FontSize="18" FontWeight="Bold">Israt Jhan</Run>
+                                        <LineBreak/>
+                                        <Run FontSize="15">BKH1201028F</Run>
+                                    </TextBlock>
+                                </Border>
+                                <Border Style="{StaticResource DeveloperBoxStyle}">
+                                    <TextBlock TextWrapping="Wrap">
+                                        <Run FontSize="18" FontWeight="Bold">Amir Sohel Chowdhury</Run>
+                                        <LineBreak/>
+                                        <Run FontSize="15">ASH1201050M</Run>
+                                    </TextBlock>
+                                </Border>
+                            </WrapPanel>
+
+                        </Grid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>-->
+
+            <TabItem Header="Transaction Log" Height="42" Width="100">
+
+                <Grid Background="#FFE5E5E5" >
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="3*"></ColumnDefinition>
+                        <ColumnDefinition Width="3*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox HorizontalAlignment="Left" Height="549" VerticalAlignment="Top" Width="150" Margin="0,0,0,-36">
+                        
+                        <ListBoxItem Name="IssuBookLog" Selected="IssuBookLog_Selected" >Issued Books Log</ListBoxItem>
+                        <ListBoxItem Name="QueuedBookLog" Selected="QueuedBookLog_Selected" >Queued Books Log</ListBoxItem>
+                        <ListBoxItem Name="FineLog" Selected="FineLog_Selected" >Fine Log</ListBoxItem>
+
+                    </ListBox>
+
+                    <ScrollViewer  Grid.Row="0" Grid.Column="1" HorizontalScrollBarVisibility="Visible"
+                                  VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="2" >
+
+                        <Frame  Grid.Row="0" Grid.Column="1" Name="TransactionLog"
+                           ScrollViewer.HorizontalScrollBarVisibility="Visible" 
+                           ScrollViewer.VerticalScrollBarVisibility="Visible"
+                           NavigationUIVisibility="Hidden" Width="1250"></Frame>
+                    </ScrollViewer>
+
+                </Grid>
+
+            </TabItem>
+            
+        </TabControl>
+
+        <!-- <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions> -->
+
+
+
+
+    </Grid>
+</Window>

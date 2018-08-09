@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="WpfApplication1.IssuedBookLogUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800"
+             Width="1500"
+             >
+    <Grid Background="#FFE5E5E5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="1" Text="List of Issued Books" FontSize="18" FontWeight="Bold"
+                       HorizontalAlignment="Center" Height="35"></TextBlock>
+
+            <DataGrid Grid.Row="2" FontSize="16" AutoGenerateColumns="False" 
+                      ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                      ScrollViewer.VerticalScrollBarVisibility="Visible"
+                      Name="IssuedBookLogDataGrid" ItemsSource="{Binding Path=Table}">
+                
+                <DataGrid.Columns >
+                    <DataGridTextColumn Header="CardNo" Width="100" Binding="{Binding Path=i_mcardno}"/>
+                    <DataGridTextColumn Header="Name" Width="300" Binding="{Binding Path=i_memname}"/>
+                    <DataGridTextColumn Header="Book ID" Width="100" Binding="{Binding Path=i_bookid}"/>
+                    <DataGridTextColumn Header="Book Name" Width="300" Binding="{Binding Path=i_bookname}"/>
+                    <DataGridTextColumn Header="Date of issue" Width="140" Binding="{Binding Path=i_dateofissue}" />
+                    <DataGridTextColumn Header="Date of expiry" Width="140" Binding="{Binding Path=i_dateofexpiry}"/>
+                    <DataGridTextColumn Header="Issue id" Width="*" Binding="{Binding Path=i_id}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+
+        </Grid>
+
+    </Grid>
+</UserControl>

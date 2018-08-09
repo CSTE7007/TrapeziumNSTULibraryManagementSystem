@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="WpfApplication1.AddMemUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:Width="541"
+             Height="auto" Width="826"
+             HorizontalAlignment="Left"
+>
+    <Grid Background="#FFE5E5E5">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="220"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Height="35" Text="Add Member" HorizontalAlignment="Center" FontSize="24" Width="200" FontWeight="Bold"></TextBlock>
+
+        <Label Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,0,5,25" Grid.Row="1">Card No.:</Label>
+
+        <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,54,0,31" Grid.RowSpan="2">Name:</Label>
+        <TextBox Name="MembernameTextBox" Grid.Row="1" Grid.Column="2" Height="35" Margin="0,56,0,29" Grid.RowSpan="2"></TextBox>
+
+        <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,53,0,32" Grid.RowSpan="2">Hall and Room No.:</Label>
+        <TextBox Name="MemberaddressTextBox" Grid.Row="2" Grid.Column="2" Height="35" Margin="0,53,0,32" Grid.RowSpan="2"></TextBox>
+
+        <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,50,0,35" Grid.RowSpan="2">Mobile Number:</Label>
+        <TextBox Name="MemberphonenumberTextBox" Grid.Row="3" Grid.Column="2" Height="35" Margin="0,51,0,34" Grid.RowSpan="2"></TextBox>
+
+
+        <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,50,0,35" Grid.RowSpan="2">Department:</Label>
+        <ComboBox Name="DeptnameComboBox" Grid.Row="4" Grid.Column="2" Height="35" Margin="0,50,0,35" Grid.RowSpan="2">
+
+        </ComboBox>
+
+        <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,49,0,36" Grid.RowSpan="2">Roll No.:</Label>
+        <TextBox Name="RollnoTextBox" Grid.Row="5" Grid.Column="2" Height="35" Margin="0,49,0,36" Grid.RowSpan="2" />
+
+        <Label Grid.Row="6" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,43,0,42" Grid.RowSpan="2">Validity:</Label>
+        <DatePicker  Name="Dateexpiry" Grid.Row="6" Grid.Column="2" Height="35" Margin="0,43,0,42" Grid.RowSpan="2"></DatePicker>
+
+        <Label Grid.Row="7" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,32,0,3" Grid.RowSpan="2">Session:</Label>
+        <TextBox Name="SessionTextBox" Grid.Row="7" Grid.Column="2" Height="35" Margin="0,30,0,5" Grid.RowSpan="2"/>
+
+        <Button  Name="SavememberButton" Grid.Row="9" Grid.Column="2" 
+                 FontWeight="Bold" Margin="90,10,100,19" Click="SavememberButton_Click">Save</Button>
+        <TextBox  Name="MemberidnoTextBox" Grid.Column="2" HorizontalAlignment="Left" Height="35" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="250" />
+
+
+    </Grid>
+</UserControl>

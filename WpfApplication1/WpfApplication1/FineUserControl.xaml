@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="WpfApplication1.FineUserControl"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:Width="541"
+             Height="1000" Width="826"
+             HorizontalAlignment="Left">
+    <Grid Background="#FFE5E5E5">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="220"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Height="35" Text="Calculate Fine" HorizontalAlignment="Center" FontSize="24" Width="200" FontWeight="Bold"></TextBlock>
+
+        <Label Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,0,246,25" Grid.Row="1" Grid.ColumnSpan="2">Card No.:</Label>
+
+        <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,54,0,31" Grid.RowSpan="2">Name:</Label>
+        <TextBox Name="MembernameTextBox" Grid.Row="2" Grid.Column="2" Height="35" Margin="0,0,0,25"/>
+
+        <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" 
+               FontWeight="Bold" Margin="0,0,0,25" Content="Book ID:"/>
+
+
+        <TextBox Name="BookIDTextBox" Grid.Row="3" Grid.Column="2"
+                  Margin="0,0,145,25"/>
+
+
+        <!--<ComboBox Name="BookIDComboBox" Grid.Row="3" Grid.Column="2" Height="35"
+                  Margin="0,0,145,25" 
+                  SelectionChanged="BookIDComboBox_SelectionChanged"/>-->
+
+        <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,0,0,25" Content="Book Name:"/>
+        <TextBox Name="BookNameTextBox" Grid.Row="4" Grid.Column="2" Height="35" Margin="0,0,0,25"/>
+
+        <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,0,0,25" Content="Issue Date:"/>
+
+
+        <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold" Margin="0,53,0,32" Grid.RowSpan="2" Content="Expire Date:"/>
+
+        <Button Grid.Row="9" Grid.Column="2" FontWeight="Bold" x:Name="PayFineButton"
+                Content="Pay fine to Return book"  Height="44" VerticalAlignment="Bottom" Click="PayFineButton_Click" />
+        <ComboBox Grid.Column="2" HorizontalAlignment="Left" Height="35" Grid.Row="1" 
+                  Name="MembercardnoComboBox"
+                  VerticalAlignment="Top" Width="100" Margin="5,1,0,0" SelectionChanged="MembercardnoComboBox_SelectionChanged" />
+
+        <DatePicker  x:Name="BookissuesDatePicker" Grid.Row="5" Grid.Column="2" Height="35" Margin="0,7,0,18"/>
+        <DatePicker  x:Name="BookexpiryDatePicker" Grid.Row="6" Grid.Column="2" Height="35" Margin="0,0,0,25"/>
+
+        <Label Grid.Row="7" Grid.Column="1" Height="35" HorizontalAlignment="Center" 
+               FontSize="18" FontWeight="Bold"
+               Margin="93,7,5,18" Width="122">Today's Date:</Label>
+        <DatePicker Name="TodaysDate" Grid.Row="7" Grid.Column="2" Height="35"></DatePicker>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="33"
+                 Name="FineAmountTextBox"
+                 Margin="10,11,0,0" Grid.Row="8" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Fine Amount:" FontSize="18" FontWeight="Bold"
+               Grid.Column="1" HorizontalAlignment="Left" 
+               Margin="83,9,0,0" Grid.Row="8" VerticalAlignment="Top" Width="134"/>
+
+
+    </Grid>
+</UserControl>
